@@ -11,7 +11,7 @@
     "environments": {
     "test": {
       "scripts": {
-        "test": "bundle exec rake test"
+        "test": ""
       }
     }
   }
