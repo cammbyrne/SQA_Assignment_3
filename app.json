@@ -11,7 +11,7 @@
     "environments": {
     "test": {
       "scripts": {
-        "test-setup": "python manage.py collectstatic --noinput",
+        "test-setup": "Test_BMI_Calculator.py collectstatic --noinput",
         "test": "python Test_BMI_Calculator.py test"
       }
     }
