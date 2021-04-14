@@ -11,7 +11,7 @@
     "environments": {
     "test": {
       "scripts": {
-        "test": "python Test_BMI_Calculator.py test"
+        "test": "python Test_BMI_Calculator.py"
       }
     }
   }
