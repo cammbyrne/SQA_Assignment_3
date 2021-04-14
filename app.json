@@ -12,7 +12,7 @@
     "test": {
       "scripts": {
         "test": "python Test_BMI_Calculator.py",
-        "test": "python Test_Retirement_Tracker.py",
+        "test": "python Test_Retirement_Tracker.py"
 
       }
     }
