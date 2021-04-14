@@ -7,6 +7,6 @@
       "scalpel"
     ],
     "repository": "https://github.com/cammbyrne/SQA_Assignment_3",
-    "success_url": "/welcome",
+    "success_url": "/welcome"
     
   }
