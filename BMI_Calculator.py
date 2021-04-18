@@ -11,6 +11,7 @@ def BMI_Calc(feet, inches, pounds):
 
     BMI = kilos / (meters * meters)
 
+    print(round(BMI,1))
     return round(BMI, 1)
 
 # Returns a person's BMI category
